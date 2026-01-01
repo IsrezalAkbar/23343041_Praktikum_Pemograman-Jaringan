@@ -22,7 +22,7 @@ Repository ini berisi kumpulan tugas dan praktikum mata kuliah **Pemrograman Jar
 ├── 📁 jobsheet 2      → File System & Command Line Interface
 ├── 📁 jobsheet 8      → MongoDB & Database Operations
 ├── 📁 jobsheet 9      → Real-time Chat Application (Socket.io)
-├── 📁 aplikasicuaca   → Weather Application API
+├── 📁 aplikasicuaca   → Weather Application API (jobsheet 3,4,5,6,7) karena saya tidak buat file terpisah dan nyambung dari jobsheet 3 sampai 7 untuk uts
 ├── 📁 web-server      → Express.js Web Server & Templates
 └── 📁 202513430093_23343041_Isrezal Akbar → Final Project
 ```
